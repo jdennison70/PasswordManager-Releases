@@ -10,7 +10,7 @@ No Java installation required – just download and run the installer.
 👉 [Download PasswordManager v1.0](https://github.com/jdennison70/PasswordManager-Releases/releases/tag/v1.0)
 
 - Version: **v1.0**
-- File: `PasswordManager-1.0.exe` (~600MB)
+- File: `PasswordManager-1.0.exe` (~800MB)
 - Windows installer with Java runtime bundled (built using `jpackage`)
 
 ---
